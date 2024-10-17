@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/navdeep/cpp-boilerplate-v2-valgrind_exercise/build/app",
+  "command": "/usr/bin/c++  -I/home/navdeep/cpp-boilerplate-v2-valgrind_exercise/include -std=gnu++14 -o CMakeFiles/shell-app.dir/AnalogSensor.cpp.o -c /home/navdeep/cpp-boilerplate-v2-valgrind_exercise/app/AnalogSensor.cpp",
+  "file": "/home/navdeep/cpp-boilerplate-v2-valgrind_exercise/app/AnalogSensor.cpp"
+},
+{
+  "directory": "/home/navdeep/cpp-boilerplate-v2-valgrind_exercise/build/app",
+  "command": "/usr/bin/c++  -I/home/navdeep/cpp-boilerplate-v2-valgrind_exercise/include -std=gnu++14 -o CMakeFiles/shell-app.dir/main.cpp.o -c /home/navdeep/cpp-boilerplate-v2-valgrind_exercise/app/main.cpp",
+  "file": "/home/navdeep/cpp-boilerplate-v2-valgrind_exercise/app/main.cpp"
+}
+]
